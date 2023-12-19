@@ -1,2 +1,8 @@
 # TDD
-TDD 공부하고 연습하는 레포지토리
+### [테스트 주도 개발 시작하기](https://product.kyobobook.co.kr/detail/S000001248962)와 [테스트 주도 개발](https://product.kyobobook.co.kr/detail/S000001032985)을 읽고 적용한 내용을 기록합니다.
+
+<br>
+
+| No | 미션 | Repository |
+|:---:|:---:|:---:|
+|1|숫자 야구 게임| [java-baseball](https://github.com/leeedohyun/java-baseball-6/tree/tdd)
