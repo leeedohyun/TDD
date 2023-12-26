@@ -6,3 +6,4 @@
 | No | 미션 | Repository |
 |:---:|:---:|:---:|
 |1|숫자 야구 게임| [java-baseball](https://github.com/leeedohyun/java-baseball-6/tree/tdd)
+|2|자동차 경주 게임| [java-racingcar](https://github.com/leeedohyun/java-racingcar-6/tree/tdd)
